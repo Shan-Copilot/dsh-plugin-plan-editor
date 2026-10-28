@@ -1,0 +1,4 @@
+- insert:
+    - id: plan-editor
+      name: '@local/plan-editor'
+      config: {}
